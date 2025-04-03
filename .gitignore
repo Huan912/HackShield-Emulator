@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+.vs
+EhSvc/Release
+EhSvc/Debug
+HsUpdate/Release
+HsUpdate/Debug
