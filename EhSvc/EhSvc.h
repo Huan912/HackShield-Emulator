@@ -41,7 +41,7 @@ namespace EhSvcHijack
 	}
 
 
-	DWORD VERSION_CALL_CONVENTION AhnHS_GetTickCount_(int a1)
+	DWORD VERSION_CALL_CONVENTION AhnHS_GetTickCount_()
 	{
 		return GetTickCount();
 	}
